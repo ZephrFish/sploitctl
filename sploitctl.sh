@@ -16,7 +16,7 @@
 # nrz@nullsecurity.net                                                         #
 # kurobeats@outlook.com                                                        #
 #  
-# Added Kernel-Exploits search in
+# work in progress, going to patch in www.kernel-exploits.com
 ################################################################################
 
 
